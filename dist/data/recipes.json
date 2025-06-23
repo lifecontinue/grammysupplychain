@@ -1,0 +1,182 @@
+[
+  {
+    "id": "recipe-001",
+    "name": "法式和牛西冷配红酒汁",
+    "description": "选用澳洲A5和牛西冷，搭配法国波尔多红酒汁，经典法式烹饪技法",
+    "mainIngredients": ["ingredient-001", "ingredient-004"],
+    "category": "主菜",
+    "difficulty": "高级",
+    "cookingTime": "45分钟",
+    "servings": 2,
+    "image": "/images/beef.jpg",
+    "steps": [
+      "将和牛西冷常温回暖30分钟",
+      "用海盐和黑胡椒调味",
+      "平底锅煎制2-3分钟至两面金黄",
+      "烤箱180°C烤制8-10分钟至5分熟",
+      "制作红酒汁：红酒收汁配牛骨高汤",
+      "静置5分钟后切片装盘"
+    ],
+    "socialMedia": {
+      "douyin": "https://douyin.com/recipe001",
+      "xiaohongshu": "https://xiaohongshu.com/recipe001"
+    },
+    "nutrition": {
+      "calories": "580kcal",
+      "protein": "42g",
+      "fat": "35g"
+    },
+    "winePariring": "法国波尔多干红",
+    "occasion": "正式晚宴"
+  },
+  {
+    "id": "recipe-002", 
+    "name": "清蒸帝王蟹配柠檬黄油",
+    "description": "保持帝王蟹原汁原味，配以特制柠檬黄油汁，鲜美无比",
+    "mainIngredients": ["ingredient-002"],
+    "category": "海鲜",
+    "difficulty": "中级",
+    "cookingTime": "25分钟",
+    "servings": 4,
+    "image": "/images/seafood.jpg",
+    "steps": [
+      "帝王蟹清洗干净，去除杂质",
+      "蒸锅水开后放入蟹身",
+      "大火蒸制15分钟",
+      "制作柠檬黄油：黄油融化加柠檬汁和香草",
+      "蟹肉取出装盘",
+      "淋上温热的柠檬黄油汁"
+    ],
+    "socialMedia": {
+      "douyin": "https://douyin.com/recipe002",
+      "xiaohongshu": "https://xiaohongshu.com/recipe002"
+    },
+    "nutrition": {
+      "calories": "320kcal",
+      "protein": "28g",
+      "fat": "18g"
+    },
+    "winePariring": "干白葡萄酒",
+    "occasion": "海鲜盛宴"
+  },
+  {
+    "id": "recipe-003",
+    "name": "意式番茄烤三文鱼",
+    "description": "新鲜三文鱼配托斯卡纳有机番茄，地中海风味浓郁",
+    "mainIngredients": ["ingredient-005", "ingredient-003"],
+    "category": "主菜",
+    "difficulty": "中级", 
+    "cookingTime": "30分钟",
+    "servings": 2,
+    "image": "/images/seafood.jpg",
+    "steps": [
+      "三文鱼切成厚片，用盐和胡椒调味",
+      "番茄切片，加橄榄油和香草腌制",
+      "烤盘铺上番茄片",
+      "三文鱼放在番茄上",
+      "烤箱200°C烤制18分钟",
+      "撒上新鲜罗勒叶装饰"
+    ],
+    "socialMedia": {
+      "douyin": "https://douyin.com/recipe003",
+      "xiaohongshu": "https://xiaohongshu.com/recipe003"
+    },
+    "nutrition": {
+      "calories": "380kcal",
+      "protein": "32g",
+      "fat": "22g"
+    },
+    "winePariring": "意大利白葡萄酒",
+    "occasion": "浪漫晚餐"
+  },
+  {
+    "id": "recipe-004",
+    "name": "香草烤羊排配红酒汁",
+    "description": "新西兰草饲羊排，香草腌制，配经典红酒汁",
+    "mainIngredients": ["ingredient-006", "ingredient-004"],
+    "category": "主菜",
+    "difficulty": "高级",
+    "cookingTime": "40分钟",
+    "servings": 2,
+    "image": "/images/farm.jpg",
+    "steps": [
+      "羊排用迷迭香、百里香腌制2小时",
+      "平底锅煎制羊排表面",
+      "烤箱180°C烤制15-20分钟",
+      "制作红酒汁收汁",
+      "羊排静置5分钟后切开",
+      "淋上红酒汁装盘"
+    ],
+    "socialMedia": {
+      "douyin": "https://douyin.com/recipe004", 
+      "xiaohongshu": "https://xiaohongshu.com/recipe004"
+    },
+    "nutrition": {
+      "calories": "520kcal",
+      "protein": "38g",
+      "fat": "28g"
+    },
+    "winePariring": "法国红酒",
+    "occasion": "庆祝晚宴"
+  },
+  {
+    "id": "recipe-005",
+    "name": "经典婚礼蛋糕",
+    "description": "多层婚礼蛋糕，香草海绵蛋糕配奶油霜装饰",
+    "mainIngredients": [],
+    "category": "甜品",
+    "difficulty": "高级",
+    "cookingTime": "180分钟",
+    "servings": 50,
+    "image": "/images/cake.jpg",
+    "steps": [
+      "制作香草海绵蛋糕坯",
+      "准备香草奶油霜",
+      "组装多层蛋糕",
+      "裱花装饰",
+      "添加新鲜花朵装饰",
+      "冷藏定型2小时"
+    ],
+    "socialMedia": {
+      "douyin": "https://douyin.com/recipe005",
+      "xiaohongshu": "https://xiaohongshu.com/recipe005"
+    },
+    "nutrition": {
+      "calories": "450kcal",
+      "protein": "6g",
+      "fat": "25g"
+    },
+    "winePariring": "香槟",
+    "occasion": "婚礼庆典"
+  },
+  {
+    "id": "recipe-006",
+    "name": "格莱美招牌套餐",
+    "description": "精选多种优质食材的完美组合套餐",
+    "mainIngredients": ["ingredient-001", "ingredient-002", "ingredient-003"],
+    "category": "套餐",
+    "difficulty": "高级", 
+    "cookingTime": "90分钟",
+    "servings": 4,
+    "image": "/images/wedding-dinner.jpg",
+    "steps": [
+      "前菜：有机蔬菜沙拉",
+      "汤品：法式龙虾汤",
+      "主菜：和牛配帝王蟹",
+      "甜品：提拉米苏",
+      "饮品：精选红酒",
+      "精美摆盘装饰"
+    ],
+    "socialMedia": {
+      "douyin": "https://douyin.com/recipe006",
+      "xiaohongshu": "https://xiaohongshu.com/recipe006"
+    },
+    "nutrition": {
+      "calories": "1200kcal",
+      "protein": "85g",
+      "fat": "65g"
+    },
+    "winePariring": "多种酒款搭配",
+    "occasion": "豪华婚宴"
+  }
+]

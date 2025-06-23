@@ -1,0 +1,170 @@
+[
+  {
+    "id": "supplier-001",
+    "name": "澳洲和牛牧场",
+    "type": "meat",
+    "category": "肉类",
+    "location": {
+      "lat": -25.274398,
+      "lng": 133.775136,
+      "address": "澳大利亚新南威尔士州",
+      "country": "澳大利亚"
+    },
+    "description": "专业提供顶级澳洲和牛，拥有200年历史的家族牧场",
+    "certifications": ["有机认证", "HACCP"],
+    "supplySince": "2018年",
+    "contactInfo": {
+      "phone": "+61-2-9876-5432",
+      "email": "contact@ausbeef.com.au"
+    },
+    "story": {
+      "title": "传承200年的和牛传奇",
+      "content": "位于澳大利亚新南威尔士州的这片牧场，承载着200年的家族传承。每一头和牛都在天然草场中自由生长，享受着最纯净的自然环境。牧场主人坚持传统养殖方式，确保每一块牛肉都达到A5级别的极致品质。",
+      "video": null,
+      "images": ["/images/beef.jpg", "/images/farm.jpg"]
+    },
+    "ingredients": ["澳洲和牛", "有机牛肉"],
+    "deliveryTime": "72小时",
+    "rating": 4.9
+  },
+  {
+    "id": "supplier-002", 
+    "name": "北海道海鲜公司",
+    "type": "seafood",
+    "category": "海鲜",
+    "location": {
+      "lat": 43.2203,
+      "lng": 142.8635,
+      "address": "日本北海道札幌市",
+      "country": "日本"
+    },
+    "description": "提供最新鲜的北海道海鲜，包括帝王蟹、海胆、扇贝等",
+    "certifications": ["MSC可持续渔业", "HACCP"],
+    "supplySince": "2019年",
+    "contactInfo": {
+      "phone": "+81-11-123-4567",
+      "email": "info@hokkaido-seafood.jp"
+    },
+    "story": {
+      "title": "北海道的海洋馈赠",
+      "content": "北海道拥有世界上最纯净的海域之一，这里的海鲜以其鲜美和营养价值闻名全球。我们的渔船每天清晨出海，采用传统捕捞方式，确保海鲜的新鲜度和品质。每一只帝王蟹都是大自然的精心杰作。",
+      "video": null,
+      "images": ["/images/seafood.jpg"]
+    },
+    "ingredients": ["帝王蟹", "海胆", "扇贝", "三文鱼"],
+    "deliveryTime": "48小时",
+    "rating": 4.8
+  },
+  {
+    "id": "supplier-003",
+    "name": "托斯卡纳有机农场",
+    "type": "vegetables",
+    "category": "蔬菜",
+    "location": {
+      "lat": 43.7711,
+      "lng": 11.2486,
+      "address": "意大利托斯卡纳大区",
+      "country": "意大利"
+    },
+    "description": "有机蔬菜和香料供应商，坚持可持续农业",
+    "certifications": ["EU有机认证", "生物动力学认证"],
+    "supplySince": "2017年",
+    "contactInfo": {
+      "phone": "+39-055-123-4567",
+      "email": "info@toscana-organic.it"
+    },
+    "story": {
+      "title": "托斯卡纳的绿色奇迹",
+      "content": "在意大利托斯卡纳的山丘上，我们的有机农场遵循着古老的农耕智慧。不使用任何化学肥料和农药，让蔬菜在自然的怀抱中成长。每一颗番茄都饱含着地中海阳光的味道，每一棵香草都散发着大地的芬芳。",
+      "video": null,
+      "images": ["/images/vegetables.jpg", "/images/farm.jpg"]
+    },
+    "ingredients": ["有机番茄", "意大利香草", "有机橄榄油", "芝麻菜"],
+    "deliveryTime": "36小时",
+    "rating": 4.7
+  },
+  {
+    "id": "supplier-004",
+    "name": "法国波尔多酒庄",
+    "type": "wine",
+    "category": "酒类",
+    "location": {
+      "lat": 44.8378,
+      "lng": -0.5792,
+      "address": "法国波尔多地区",
+      "country": "法国"
+    },
+    "description": "世界知名酒庄，提供顶级红酒和香槟",
+    "certifications": ["AOC原产地认证", "有机酒庄认证"],
+    "supplySince": "2016年",
+    "contactInfo": {
+      "phone": "+33-5-56-12-34-56",
+      "email": "contact@bordeaux-wines.fr"
+    },
+    "story": {
+      "title": "波尔多的液体黄金",
+      "content": "这座拥有300年历史的酒庄，见证了波尔多葡萄酒的传奇。每一瓶酒都经过精心酿制，从葡萄采摘到窖藏陈化，每个环节都体现着法国人对完美的执着追求。这里的酒不仅是饮品，更是艺术品。",
+      "video": null,
+      "images": ["/images/wine.jpg"]
+    },
+    "ingredients": ["红酒", "香槟", "干白葡萄酒"],
+    "deliveryTime": "120小时",
+    "rating": 4.9
+  },
+  {
+    "id": "supplier-005",
+    "name": "新西兰羊肉公司",
+    "type": "meat",
+    "category": "肉类",
+    "location": {
+      "lat": -40.9006,
+      "lng": 174.886,
+      "address": "新西兰北岛",
+      "country": "新西兰"
+    },
+    "description": "提供优质草饲羊肉，肉质鲜嫩营养丰富",
+    "certifications": ["草饲认证", "动物福利认证"],
+    "supplySince": "2020年",
+    "contactInfo": {
+      "phone": "+64-9-123-4567",
+      "email": "sales@nz-lamb.co.nz"
+    },
+    "story": {
+      "title": "新西兰牧场的纯净之味",
+      "content": "在新西兰广阔的草原上，羊群自由地漫步在绿色的牧场中。这里的空气清新，水源纯净，为羊群提供了最佳的生长环境。我们坚持人道养殖，让每一只羊都能在自然环境中健康成长。",
+      "video": null,
+      "images": ["/images/farm.jpg"]
+    },
+    "ingredients": ["草饲羊肉", "羊排"],
+    "deliveryTime": "72小时",
+    "rating": 4.6
+  },
+  {
+    "id": "supplier-006",
+    "name": "挪威三文鱼农场",
+    "type": "seafood", 
+    "category": "海鲜",
+    "location": {
+      "lat": 62.472,
+      "lng": 6.1534,
+      "address": "挪威峡湾地区",
+      "country": "挪威"
+    },
+    "description": "可持续养殖的优质三文鱼供应商",
+    "certifications": ["ASC水产养殖认证", "MSC可持续渔业"],
+    "supplySince": "2018年",
+    "contactInfo": {
+      "phone": "+47-12-34-56-78",
+      "email": "info@norway-salmon.no"
+    },
+    "story": {
+      "title": "峡湾里的橙色美味",
+      "content": "挪威的峡湾为三文鱼提供了世界上最理想的生长环境。清澈的海水、适宜的温度和丰富的海洋营养，造就了三文鱼肉质的鲜美和营养价值。我们采用可持续的养殖方式，保护海洋生态环境。",
+      "video": null,
+      "images": ["/images/seafood.jpg"]
+    },
+    "ingredients": ["挪威三文鱼", "三文鱼籽"],
+    "deliveryTime": "48小时",
+    "rating": 4.8
+  }
+]

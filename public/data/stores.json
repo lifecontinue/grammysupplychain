@@ -1,0 +1,59 @@
+[
+  {
+    "id": "store-001",
+    "name": "格莱美婚礼宴会中心(上海店)",
+    "location": {
+      "lat": 31.2304,
+      "lng": 121.4737,
+      "address": "上海市黄浦区外滩18号",
+      "city": "上海",
+      "country": "中国"
+    },
+    "description": "位于上海外滩的旗舰店，拥有完美的黄浦江景观",
+    "capacity": 500,
+    "openSince": "2015年",
+    "features": ["江景露台", "专业摄影", "个性化定制"],
+    "contactInfo": {
+      "phone": "+86-21-6888-9999",
+      "email": "shanghai@grammy-weddings.com"
+    }
+  },
+  {
+    "id": "store-002", 
+    "name": "格莱美婚礼宴会中心(北京店)",
+    "location": {
+      "lat": 39.9042,
+      "lng": 116.4074,
+      "address": "北京市朝阳区建国门外大街1号",
+      "city": "北京",
+      "country": "中国"
+    },
+    "description": "北京CBD核心区域，现代化设施完备",
+    "capacity": 600,
+    "openSince": "2016年",
+    "features": ["天幕花园", "智能灯光", "专业音响"],
+    "contactInfo": {
+      "phone": "+86-10-8888-6666",
+      "email": "beijing@grammy-weddings.com"
+    }
+  },
+  {
+    "id": "store-003",
+    "name": "格莱美婚礼宴会中心(深圳店)", 
+    "location": {
+      "lat": 22.3193,
+      "lng": 114.1694,
+      "address": "深圳市福田区深南大道1001号",
+      "city": "深圳",
+      "country": "中国"
+    },
+    "description": "现代化设计风格，科技感十足",
+    "capacity": 400,
+    "openSince": "2018年",
+    "features": ["全息投影", "智能管家", "VR体验"],
+    "contactInfo": {
+      "phone": "+86-755-8888-8888",
+      "email": "shenzhen@grammy-weddings.com"
+    }
+  }
+]

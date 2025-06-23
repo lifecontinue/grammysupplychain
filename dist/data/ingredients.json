@@ -1,0 +1,134 @@
+[
+  {
+    "id": "ingredient-001",
+    "name": "澳洲A5和牛",
+    "category": "肉类",
+    "supplierId": "supplier-001",
+    "origin": "澳大利亚新南威尔士州",
+    "description": "世界顶级的和牛品种，肉质纹理丰富，口感极致鲜美",
+    "nutritionInfo": {
+      "protein": "22g/100g",
+      "fat": "18g/100g", 
+      "calories": "250kcal/100g",
+      "omega3": "高含量"
+    },
+    "seasonality": "全年供应",
+    "storageCondition": "冷藏保存2-4°C",
+    "processingMethod": "21天干式熟成",
+    "certifications": ["有机认证", "HACCP", "ISO22000"],
+    "image": "/images/beef.jpg",
+    "priceRange": "¥800-1200/kg",
+    "freshnessIndicator": "出场48小时内",
+    "sustainabilityScore": 9.2
+  },
+  {
+    "id": "ingredient-002",
+    "name": "北海道帝王蟹",
+    "category": "海鲜",
+    "supplierId": "supplier-002",
+    "origin": "日本北海道海域",
+    "description": "肉质饱满甘甜，是海鲜中的极品",
+    "nutritionInfo": {
+      "protein": "19g/100g",
+      "fat": "1.3g/100g",
+      "calories": "84kcal/100g",
+      "selenium": "丰富"
+    },
+    "seasonality": "11月-3月最佳",
+    "storageCondition": "活蟹保存0-2°C",
+    "processingMethod": "现场活蒸",
+    "certifications": ["MSC可持续渔业", "日本原产地认证"],
+    "image": "/images/seafood.jpg",
+    "priceRange": "¥1500-2000/只",
+    "freshnessIndicator": "捕捞24小时内",
+    "sustainabilityScore": 8.8
+  },
+  {
+    "id": "ingredient-003", 
+    "name": "托斯卡纳有机番茄",
+    "category": "蔬菜",
+    "supplierId": "supplier-003",
+    "origin": "意大利托斯卡纳大区",
+    "description": "日照充足，土壤肥沃，口感浓郁甘甜",
+    "nutritionInfo": {
+      "vitaminC": "23mg/100g",
+      "lycopene": "高含量",
+      "calories": "18kcal/100g",
+      "fiber": "1.2g/100g"
+    },
+    "seasonality": "6月-9月",
+    "storageCondition": "常温避光保存",
+    "processingMethod": "手工采摘",
+    "certifications": ["EU有机认证", "生物动力学认证"],
+    "image": "/images/vegetables.jpg",
+    "priceRange": "¥80-120/kg",
+    "freshnessIndicator": "采摘当日",
+    "sustainabilityScore": 9.5
+  },
+  {
+    "id": "ingredient-004",
+    "name": "法国波尔多红酒",
+    "category": "酒类",
+    "supplierId": "supplier-004", 
+    "origin": "法国波尔多地区",
+    "description": "传统工艺酿制，酒体醇厚，回味悠长",
+    "nutritionInfo": {
+      "alcohol": "13.5%vol",
+      "antioxidants": "丰富的白藜芦醇",
+      "calories": "85kcal/100ml",
+      "sulfites": "minimal"
+    },
+    "seasonality": "全年供应",
+    "storageCondition": "恒温12-16°C避光保存",
+    "processingMethod": "橡木桶陈酿18个月",
+    "certifications": ["AOC原产地认证", "有机酒庄认证"],
+    "image": "/images/wine.jpg",
+    "priceRange": "¥800-1500/瓶",
+    "freshnessIndicator": "最佳饮用期2021-2030",
+    "sustainabilityScore": 8.7
+  },
+  {
+    "id": "ingredient-005",
+    "name": "挪威三文鱼",
+    "category": "海鲜",
+    "supplierId": "supplier-006",
+    "origin": "挪威峡湾",
+    "description": "肉质紧实，富含Omega-3脂肪酸",
+    "nutritionInfo": {
+      "protein": "25g/100g",
+      "omega3": "2.3g/100g",
+      "calories": "208kcal/100g",
+      "vitaminD": "丰富"
+    },
+    "seasonality": "全年供应",
+    "storageCondition": "冷藏保存0-2°C",
+    "processingMethod": "急速冷冻保鲜",
+    "certifications": ["ASC水产养殖认证", "MSC可持续渔业"],
+    "image": "/images/seafood.jpg",
+    "priceRange": "¥200-300/kg",
+    "freshnessIndicator": "捕捞48小时内",
+    "sustainabilityScore": 9.0
+  },
+  {
+    "id": "ingredient-006",
+    "name": "新西兰草饲羊肉",
+    "category": "肉类",
+    "supplierId": "supplier-005",
+    "origin": "新西兰北岛",
+    "description": "纯天然草饲，肉质鲜嫩，无膻味",
+    "nutritionInfo": {
+      "protein": "26g/100g",
+      "fat": "8g/100g",
+      "calories": "165kcal/100g",
+      "iron": "丰富"
+    },
+    "seasonality": "全年供应",
+    "storageCondition": "冷藏保存2-4°C",
+    "processingMethod": "天然草饲养殖",
+    "certifications": ["草饲认证", "动物福利认证"],
+    "image": "/images/farm.jpg",
+    "priceRange": "¥150-200/kg",
+    "freshnessIndicator": "宰杀48小时内",
+    "sustainabilityScore": 8.9
+  }
+]
